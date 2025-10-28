@@ -22,7 +22,7 @@ Detail-oriented data analyst with experience in data management, automation, and
 
 | Project | Description | Tools |
 |----------|--------------|-------|
-| [📚 Student Performance Dashboard](#) | Built an Excel dashboard analyzing student outcomes and attendance trends. | Excel, Pivot Tables |
+| [📚 Student Information Data Entry Form](https://github.com/amargota/portfolio/blob/106c7aa07693ca0aee00e68766e29547728e6825/Data%20Entry%20Student%20Information.xlsm) | Built an Data Entry Form using VBA & Macros. | Excel, VBA |
 | [🏥 Health Data Quality Audit](#) | Cleaned and validated health data to identify missing and inconsistent entries. | Google Sheets, Apps Script |
 | [🛒 Retail Inventory Tracker](#) | Automated inventory monitoring and restocking alerts using VBA & Apps Script. | Excel, VBA |
 
